@@ -1,7 +1,4 @@
-# ENPM-661-Project-3
-
-This repository contains the code for A* algorithm 
-
+ENPM 661
 PROJECT 3 PHASE 2
 JAAD LEPAK
 ANSHUMAN SINGH
