@@ -552,7 +552,7 @@ if result is not None:
         Y = y[index - 1]
         U = x[index] - X
         V = y[index] - Y
-        print("x ", X, "y ", Y, "u ", U, "v ", V)
+        #print("x ", X, "y ", Y, "u ", U, "v ", V)
         plt.quiver(X,Y,U,V,units='xy' ,scale=1, color= 'blue',headwidth = 1,headlength=0)
     print("Search complete. Close window to close program")
 
